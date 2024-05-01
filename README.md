@@ -8,7 +8,7 @@ Features
 
 Requirements
 
-    PowerShell 5.1 or higher.
+    PowerShell 1.0 or higher.
     Network access to the target IP or hostname.
 
 Usage
